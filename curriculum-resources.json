@@ -1,0 +1,120 @@
+{
+  "phase1": {
+    "title": "Phase 1: Foundations",
+    "units": [
+      {
+        "id": 1,
+        "title": "Introduction to Global Agriculture",
+        "topics": ["Subsistence vs Commercial", "Economic Role"],
+        "resources": {
+          "videos": [
+            {
+              "title": "Agriculture 101: Introduction to Key Concepts",
+              "url": "https://www.youtube.com/watch?v=1FLcijYWHZQ",
+              "channel": "Agricultural Education",
+              "duration": "10 min"
+            },
+            {
+              "title": "The Agricultural Revolution: Crash Course World History",
+              "url": "https://www.youtube.com/watch?v=Yocja_N5s1I",
+              "channel": "CrashCourse",
+              "duration": "12 min"
+            },
+            {
+              "title": "Introduction to Agriculture - Understanding Basic Concepts",
+              "url": "https://www.youtube.com/watch?v=w3ps30chvgQ",
+              "channel": "Precision Agriculture",
+              "duration": "15 min"
+            }
+          ],
+          "ebooks": [
+            {
+              "title": "Introduction to Agriculture (ResearchGate)",
+              "url": "https://www.researchgate.net/publication/282905517_Introduction_to_Agriculture",
+              "type": "PDF",
+              "pages": "Multiple chapters"
+            },
+            {
+              "title": "Introductory Agriculture - ICAR",
+              "url": "https://www.agrimoon.com/wp-content/uploads/Introductory-Agriculture.pdf",
+              "type": "PDF",
+              "pages": "Comprehensive textbook"
+            },
+            {
+              "title": "Farmer's Handbook on Basic Agriculture",
+              "url": "https://www.manage.gov.in/publications/farmerbook.pdf",
+              "type": "PDF",
+              "pages": "Practical guide"
+            }
+          ],
+          "articles": [
+            {
+              "title": "Types of Agriculture - Subsistence vs Commercial",
+              "url": "https://pressbooks.pub/humangeography/chapter/6-2/",
+              "source": "Human Geography Textbook"
+            },
+            {
+              "title": "Food, Water, and Agriculture",
+              "url": "https://www.opengeography.org/ch-8-food-water-and-agriculture.html",
+              "source": "Open Geography"
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "title": "Agricultural Ecology & Climate",
+        "topics": ["Weather Patterns", "Climate Change"],
+        "resources": {
+          "videos": [
+            {
+              "title": "Climate Change and Agriculture",
+              "url": "https://www.youtube.com/results?search_query=climate+change+agriculture+tutorial",
+              "channel": "Various",
+              "duration": "Varies"
+            }
+          ],
+          "ebooks": [],
+          "articles": []
+        }
+      },
+      {
+        "id": 3,
+        "title": "Botany for Farmers",
+        "topics": ["Plant Growth", "Photosynthesis"],
+        "resources": {
+          "videos": [],
+          "ebooks": [],
+          "articles": []
+        }
+      },
+      {
+        "id": 4,
+        "title": "Soil Science & Management",
+        "topics": ["Soil Types", "pH Testing", "Land Preparation"],
+        "resources": {
+          "videos": [],
+          "ebooks": [
+            {
+              "title": "A Textbook of Agronomy",
+              "url": "https://nishat2013.files.wordpress.com/2013/11/agronomy-book.pdf",
+              "type": "PDF",
+              "pages": "Comprehensive"
+            }
+          ],
+          "articles": []
+        }
+      },
+      {
+        "id": 5,
+        "title": "Farm Tools & Basic Mechanization",
+        "topics": ["Hand Tools", "Tractor Maintenance"],
+        "resources": {
+          "videos": [],
+          "ebooks": [],
+          "articles": []
+        }
+      }
+    ]
+  }
+}

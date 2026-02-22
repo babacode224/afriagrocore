@@ -1,0 +1,12 @@
+# robots.txt for AfriAgroCore
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://afriagrocore.solutions/sitemap.xml
